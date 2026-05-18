@@ -40,7 +40,7 @@ It is highly recommended to use a virtual environment to manage dependencies.
 ```bash
 # Create and activate a virtual environment
 python -m venv .venv
-source .venv/bin/activate  # On Windows, use: .venv\Scripts\activate
+source .venv/bin/activate  
 
 # Install the required packages
 pip install -r requirements.txt
