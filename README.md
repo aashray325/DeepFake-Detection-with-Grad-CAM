@@ -24,7 +24,7 @@ This project uses the "Real and Fake Face Detection" dataset, which is available
 - After downloading, make sure your project directory is structured correctly. The notebook expects the data to be in a specific folder. Your final structure should look like this:
 
 ```
-your-repo-name/
+Project Directory/
 ├── subset_50k/
 │   └── real_vs_fake/
 │       ├── train/
