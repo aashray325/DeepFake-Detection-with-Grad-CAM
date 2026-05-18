@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Data & Models - Do not commit large files
+*.csv
+*.zip
+*.data
+*.dat
+*.model
+*.pth
+*.pt
+*.h5
+/data/
+/subset_50k/
+/subset_data/
+/tiny_subset/
+/checkpoints/
+/backup/
+
+# Notebooks & IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Environment files
+.env

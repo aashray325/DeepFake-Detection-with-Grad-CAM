@@ -1,0 +1,13 @@
+# Core Libraries
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+python-dotenv
+
+# For Jupyter environment
+jupyter
+notebook
