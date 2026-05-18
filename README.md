@@ -12,8 +12,8 @@ The project includes:
 ### 1. Clone the Repository
 First, clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/aashray325/DeepFake-Detection-with-Grad-CAM.git
+cd DeepFake-Detection-with-Grad-CAM
 ```
 
 ### 2. Download the Dataset
