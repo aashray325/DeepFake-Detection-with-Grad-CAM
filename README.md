@@ -1,9 +1,9 @@
 # Real vs. Fake Face Detection Project
 
-This repository contains the code for a deep learning project that distinguishes between real and AI-generated faces. It uses a multi-stream neural network architecture that combines RGB, FFT (Fast Fourier Transform), and SRM (Spatial Rich Model) data to achieve high-accuracy classification.
+This repository contains the code for a deep learning project that distinguishes between real and AI generated faces. It uses a multi-stream neural network architecture that combines RGB, FFT (Fast Fourier Transform), and SRM (Spatial Rich Model) data to achieve high-accuracy classification.
 
 The project includes:
-- A Jupyter Notebook (`project.ipynb`) with the complete pipeline: data preprocessing, model definition, training, evaluation, and visualization.
+- A Jupyter Notebook with the complete pipeline: data preprocessing, model definition, training, evaluation, and visualization.
 - Grad-CAM visualizations to interpret and compare the model's decision-making process against a standard ResNet-18 model.
 - A modular and well-documented codebase that is easy to follow and adapt.
 
