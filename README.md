@@ -20,7 +20,7 @@ cd DeepFake-Detection-with-Grad-CAM
 This project uses the "Real and Fake Face Detection" dataset, which is available on Kaggle.
 
 - **Download the data from:** [https://www.kaggle.com/datasets/aashraygupta325/subset-50k](https://www.kaggle.com/datasets/aashraygupta325/subset-50k)
-- **Note-** The dataset is actually a subset version of the orignal _140k Real and Fake Faces_ from kaggle (https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces) for running on my machine. 
+- **Note-** The dataset is actually a subset version of the original _140k Real and Fake Faces_ from kaggle (https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces) for running on my machine. 
 - After downloading, make sure your project directory is structured correctly. The notebook expects the data to be in a specific folder. Your final structure should look like this:
 
 ```
